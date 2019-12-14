@@ -1,0 +1,12 @@
+total 52
+-rwxr-xr-x 1 owneroftime owneroftime    34 Jul 27 20:34 USS-S1-001.sh
+-rwxr-xr-x 1 owneroftime owneroftime    25 Jul 27 20:41 USS-S1-002.sh
+-rwxr-xr-x 1 owneroftime owneroftime    36 Jul 27 21:28 USS-S1-004.sh
+-rw-r--r-- 1 owneroftime owneroftime 18479 Jul 27 21:28 process.txt
+-rwxr-xr-x 1 owneroftime owneroftime  2886 Jul 27 22:05 USS-S1-003.sh
+-rwxr-xr-x 1 owneroftime owneroftime    85 Jul 28 00:49 USS-S1-005.sh
+-rw-r--r-- 1 owneroftime owneroftime    51 Jul 28 00:49 output.txt
+-rw-r--r-- 1 owneroftime owneroftime    29 Jul 28 04:21 file.txt
+-rwxr-xr-x 1 owneroftime owneroftime   301 Jul 28 04:22 USS-S1-006.sh
+-rw-r--r-- 1 owneroftime owneroftime     0 Jul 28 04:22 USS-S1-006-output.txt
+Appended text data from file.txt
